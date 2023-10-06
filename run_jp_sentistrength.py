@@ -1,10 +1,5 @@
 # coding: utf-8
-import numpy as np
 import pandas as pd
-import csv
-import emoji
-import re
-from jNlp.jTokenize import jTokenize
 from tinysegmenter import *
 import io
 import subprocess
